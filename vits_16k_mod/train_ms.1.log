@@ -1,0 +1,182 @@
+nohup: ignoring input
+rank =  0
+**************************************** /ZFS4T/tts/data/VITS/model_saved/G_62000.pth ****************************************
+**************************************** /ZFS4T/tts/data/VITS/model_saved/D_62000.pth ****************************************
+/mnt/disk3/huangyao/tts/vits/mel_processing.py:57: FutureWarning: Pass sr=16000, n_fft=1024, n_mels=80, fmin=0.0, fmax=None as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)
+/mnt/disk3/huangyao/tts/vits/mel_processing.py:75: FutureWarning: Pass sr=16000, n_fft=1024, n_mels=80, fmin=0.0, fmax=None as keyword args. From version 0.10 passing these as positional arguments will result in an error
+  mel = librosa_mel_fn(sampling_rate, n_fft, num_mels, fmin, fmax)
+/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/functional.py:641: UserWarning: stft with return_complex=False is deprecated. In a future pytorch release, stft will return complex tensors for all inputs, and return_complex=False will raise an error.
+Note: you can still call torch.view_as_real on the complex output to recover the old return format. (Triggered internally at ../aten/src/ATen/native/SpectralOps.cpp:862.)
+  return _VF.stft(input, n_fft, hop_length, win_length, window,  # type: ignore[attr-defined]
+/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/functional.py:641: UserWarning: ComplexHalf support is experimental and many operators don't support it yet. (Triggered internally at ../aten/src/ATen/EmptyTensor.cpp:31.)
+  return _VF.stft(input, n_fft, hop_length, win_length, window,  # type: ignore[attr-defined]
+[W reducer.cpp:1300] Warning: find_unused_parameters=True was specified in DDP constructor, but did not find any unused parameters in the forward pass. This flag results in an extra traversal of the autograd graph every iteration,  which can adversely affect performance. If your model indeed never has any unused parameters in the forward pass, consider turning this flag off. Note that this warning may be a false positive if your model has flow control causing later iterations to have unused parameters. (function operator())
+/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/autograd/__init__.py:200: UserWarning: Grad strides do not match bucket view strides. This may indicate grad was not created according to the gradient layout contract, or that the param's strides changed since DDP was constructed.  This is not an error, but may impair performance.
+grad.sizes() = [1, 9, 96], strides() = [13152, 96, 1]
+bucket_view.sizes() = [1, 9, 96], strides() = [864, 96, 1] (Triggered internally at ../torch/csrc/distributed/c10d/reducer.cpp:323.)
+  Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+Train Epoch: 2385 [37.50%] G-Loss: 32.2577 D-Loss: 2.2583 Loss-g-fm: 10.1243 Loss-g-mel: 16.6995 Loss-g-dur: 1.2332 Loss-g-kl: 1.6185 lr: 0.00014561 grad_norm_g: 707.4705 grad_norm_d: 39.5789
+Train Epoch: 2385 [89.58%] G-Loss: 36.4033 D-Loss: 1.9641 Loss-g-fm: 12.6385 Loss-g-mel: 18.0336 Loss-g-dur: 1.2819 Loss-g-kl: 1.4869 lr: 0.00014561 grad_norm_g: 479.9391 grad_norm_d: 39.0171
+======> Epoch: 2385
+Train Epoch: 2386 [41.67%] G-Loss: 35.9634 D-Loss: 2.2406 Loss-g-fm: 12.5743 Loss-g-mel: 18.0667 Loss-g-dur: 1.1647 Loss-g-kl: 1.5356 lr: 0.00014559 grad_norm_g: 475.7597 grad_norm_d: 61.8838
+Train Epoch: 2386 [93.75%] G-Loss: 35.7963 D-Loss: 2.2184 Loss-g-fm: 12.5085 Loss-g-mel: 17.5043 Loss-g-dur: 1.1187 Loss-g-kl: 1.7983 lr: 0.00014559 grad_norm_g: 848.7682 grad_norm_d: 70.8288
+======> Epoch: 2386
+Train Epoch: 2387 [45.83%] G-Loss: 33.8935 D-Loss: 2.3192 Loss-g-fm: 10.7846 Loss-g-mel: 17.5207 Loss-g-dur: 1.1251 Loss-g-kl: 1.6508 lr: 0.00014557 grad_norm_g: 882.6372 grad_norm_d: 82.8723
+Train Epoch: 2387 [97.92%] G-Loss: 32.3774 D-Loss: 2.2328 Loss-g-fm: 10.4764 Loss-g-mel: 16.4762 Loss-g-dur: 1.1288 Loss-g-kl: 1.4903 lr: 0.00014557 grad_norm_g: 512.1625 grad_norm_d: 67.3676
+======> Epoch: 2387
+Train Epoch: 2388 [50.00%] G-Loss: 36.5344 D-Loss: 2.2243 Loss-g-fm: 12.2602 Loss-g-mel: 18.1981 Loss-g-dur: 1.2758 Loss-g-kl: 1.8276 lr: 0.00014555 grad_norm_g: 964.4916 grad_norm_d: 84.6629
+======> Epoch: 2388
+Train Epoch: 2389 [2.08%] G-Loss: 34.9167 D-Loss: 2.0609 Loss-g-fm: 11.9032 Loss-g-mel: 17.2474 Loss-g-dur: 1.1564 Loss-g-kl: 1.6095 lr: 0.00014554 grad_norm_g: 922.6113 grad_norm_d: 46.5879
+Train Epoch: 2389 [54.17%] G-Loss: 34.8433 D-Loss: 2.0160 Loss-g-fm: 11.7581 Loss-g-mel: 17.2283 Loss-g-dur: 1.1248 Loss-g-kl: 1.6772 lr: 0.00014554 grad_norm_g: 620.0170 grad_norm_d: 33.5581
+======> Epoch: 2389
+Train Epoch: 2390 [6.25%] G-Loss: 35.3919 D-Loss: 2.1168 Loss-g-fm: 12.0502 Loss-g-mel: 17.6567 Loss-g-dur: 1.1516 Loss-g-kl: 1.6339 lr: 0.00014552 grad_norm_g: 532.3855 grad_norm_d: 37.8004
+Train Epoch: 2390 [58.33%] G-Loss: 35.5394 D-Loss: 2.0835 Loss-g-fm: 12.4161 Loss-g-mel: 17.7864 Loss-g-dur: 1.1846 Loss-g-kl: 1.4425 lr: 0.00014552 grad_norm_g: 784.5478 grad_norm_d: 44.8878
+======> Epoch: 2390
+Train Epoch: 2391 [10.42%] G-Loss: 34.4003 D-Loss: 2.0763 Loss-g-fm: 11.3712 Loss-g-mel: 17.4439 Loss-g-dur: 1.1688 Loss-g-kl: 1.5012 lr: 0.00014550 grad_norm_g: 310.6792 grad_norm_d: 29.3533
+Train Epoch: 2391 [62.50%] G-Loss: 35.2680 D-Loss: 2.1642 Loss-g-fm: 11.8370 Loss-g-mel: 17.9361 Loss-g-dur: 1.1806 Loss-g-kl: 1.5600 lr: 0.00014550 grad_norm_g: 669.8285 grad_norm_d: 7.1515
+======> Epoch: 2391
+Train Epoch: 2392 [14.58%] G-Loss: 36.5889 D-Loss: 2.0618 Loss-g-fm: 12.9730 Loss-g-mel: 17.7903 Loss-g-dur: 1.2097 Loss-g-kl: 1.7451 lr: 0.00014548 grad_norm_g: 682.0059 grad_norm_d: 69.0563
+Train Epoch: 2392 [66.67%] G-Loss: 33.7733 D-Loss: 2.2527 Loss-g-fm: 11.0863 Loss-g-mel: 17.2668 Loss-g-dur: 1.1948 Loss-g-kl: 1.4865 lr: 0.00014548 grad_norm_g: 215.0697 grad_norm_d: 14.9881
+======> Epoch: 2392
+Train Epoch: 2393 [18.75%] G-Loss: 35.2468 D-Loss: 2.1360 Loss-g-fm: 11.8226 Loss-g-mel: 17.7362 Loss-g-dur: 1.1916 Loss-g-kl: 1.5265 lr: 0.00014546 grad_norm_g: 555.2589 grad_norm_d: 25.7424
+Train Epoch: 2393 [70.83%] G-Loss: 34.1075 D-Loss: 2.0486 Loss-g-fm: 11.5997 Loss-g-mel: 17.0303 Loss-g-dur: 1.1321 Loss-g-kl: 1.4187 lr: 0.00014546 grad_norm_g: 640.6618 grad_norm_d: 26.1028
+======> Epoch: 2393
+Train Epoch: 2394 [22.92%] G-Loss: 32.7292 D-Loss: 2.1760 Loss-g-fm: 10.2764 Loss-g-mel: 16.9203 Loss-g-dur: 1.1334 Loss-g-kl: 1.4259 lr: 0.00014544 grad_norm_g: 338.7065 grad_norm_d: 12.5106
+Train Epoch: 2394 [75.00%] G-Loss: 35.5951 D-Loss: 2.0408 Loss-g-fm: 12.9103 Loss-g-mel: 17.3426 Loss-g-dur: 1.1085 Loss-g-kl: 1.5461 lr: 0.00014544 grad_norm_g: 810.7430 grad_norm_d: 46.5570
+======> Epoch: 2394
+Train Epoch: 2395 [27.08%] G-Loss: 35.3269 D-Loss: 2.1396 Loss-g-fm: 11.4418 Loss-g-mel: 18.1248 Loss-g-dur: 1.2099 Loss-g-kl: 1.8113 lr: 0.00014543 grad_norm_g: 170.9614 grad_norm_d: 29.1188
+Train Epoch: 2395 [79.17%] G-Loss: 33.7333 D-Loss: 2.1127 Loss-g-fm: 11.3393 Loss-g-mel: 17.0051 Loss-g-dur: 1.1535 Loss-g-kl: 1.4444 lr: 0.00014543 grad_norm_g: 637.6686 grad_norm_d: 22.5494
+======> Epoch: 2395
+Train Epoch: 2396 [31.25%] G-Loss: 37.6521 D-Loss: 2.1228 Loss-g-fm: 13.5729 Loss-g-mel: 18.3904 Loss-g-dur: 1.1967 Loss-g-kl: 1.7194 lr: 0.00014541 grad_norm_g: 782.2248 grad_norm_d: 27.3889
+Train Epoch: 2396 [83.33%] G-Loss: 32.5600 D-Loss: 2.1367 Loss-g-fm: 10.6300 Loss-g-mel: 16.6707 Loss-g-dur: 1.1196 Loss-g-kl: 1.4413 lr: 0.00014541 grad_norm_g: 287.0213 grad_norm_d: 17.4608
+======> Epoch: 2396
+Train Epoch: 2397 [35.42%] G-Loss: 33.7387 D-Loss: 2.1777 Loss-g-fm: 10.6882 Loss-g-mel: 17.4073 Loss-g-dur: 1.1897 Loss-g-kl: 1.7077 lr: 0.00014539 grad_norm_g: 473.7642 grad_norm_d: 65.5278
+Train Epoch: 2397 [87.50%] G-Loss: 32.3267 D-Loss: 2.0550 Loss-g-fm: 10.1504 Loss-g-mel: 16.7542 Loss-g-dur: 1.1421 Loss-g-kl: 1.2626 lr: 0.00014539 grad_norm_g: 784.4254 grad_norm_d: 62.9241
+======> Epoch: 2397
+Train Epoch: 2398 [39.58%] G-Loss: 34.2088 D-Loss: 2.1577 Loss-g-fm: 12.0589 Loss-g-mel: 16.7384 Loss-g-dur: 1.1488 Loss-g-kl: 1.5748 lr: 0.00014537 grad_norm_g: 918.2758 grad_norm_d: 64.0488
+Train Epoch: 2398 [91.67%] G-Loss: 32.3699 D-Loss: 2.1552 Loss-g-fm: 10.6936 Loss-g-mel: 16.4994 Loss-g-dur: 1.1203 Loss-g-kl: 1.2487 lr: 0.00014537 grad_norm_g: 849.3307 grad_norm_d: 79.0017
+======> Epoch: 2398
+Train Epoch: 2399 [43.75%] G-Loss: 19.5954 D-Loss: 2.4883 Loss-g-fm: 5.6070 Loss-g-mel: 9.1139 Loss-g-dur: 0.6383 Loss-g-kl: 1.4707 lr: 0.00014535 grad_norm_g: 1068.2570 grad_norm_d: 69.0491
+Train Epoch: 2399 [95.83%] G-Loss: 34.1870 D-Loss: 2.1800 Loss-g-fm: 11.2832 Loss-g-mel: 17.4254 Loss-g-dur: 1.2106 Loss-g-kl: 1.4676 lr: 0.00014535 grad_norm_g: 700.4746 grad_norm_d: 38.8923
+======> Epoch: 2399
+Train Epoch: 2400 [47.92%] G-Loss: 31.3510 D-Loss: 2.2339 Loss-g-fm: 9.7295 Loss-g-mel: 16.2043 Loss-g-dur: 1.1658 Loss-g-kl: 1.4823 lr: 0.00014534 grad_norm_g: 776.9970 grad_norm_d: 60.3847
+======> Epoch: 2400
+Train Epoch: 2401 [0.00%] G-Loss: 33.4584 D-Loss: 2.2100 Loss-g-fm: 11.4171 Loss-g-mel: 16.7252 Loss-g-dur: 1.1326 Loss-g-kl: 1.5197 lr: 0.00014532 grad_norm_g: 251.6313 grad_norm_d: 10.6683
+Train Epoch: 2401 [52.08%] G-Loss: 34.3576 D-Loss: 2.1766 Loss-g-fm: 12.1191 Loss-g-mel: 16.9225 Loss-g-dur: 1.1639 Loss-g-kl: 1.4492 lr: 0.00014532 grad_norm_g: 480.2156 grad_norm_d: 20.9441
+======> Epoch: 2401
+Train Epoch: 2402 [4.17%] G-Loss: 32.8649 D-Loss: 2.2285 Loss-g-fm: 10.6576 Loss-g-mel: 16.7883 Loss-g-dur: 1.1549 Loss-g-kl: 1.4807 lr: 0.00014530 grad_norm_g: 318.3915 grad_norm_d: 68.2601
+Train Epoch: 2402 [56.25%] G-Loss: 34.4963 D-Loss: 2.1860 Loss-g-fm: 11.8464 Loss-g-mel: 16.9834 Loss-g-dur: 1.1586 Loss-g-kl: 1.5074 lr: 0.00014530 grad_norm_g: 888.9760 grad_norm_d: 64.3369
+======> Epoch: 2402
+Train Epoch: 2403 [8.33%] G-Loss: 33.4723 D-Loss: 2.0847 Loss-g-fm: 11.4702 Loss-g-mel: 16.7152 Loss-g-dur: 1.1353 Loss-g-kl: 1.2233 lr: 0.00014528 grad_norm_g: 873.0221 grad_norm_d: 60.3181
+Train Epoch: 2403 [60.42%] G-Loss: 32.5163 D-Loss: 2.1736 Loss-g-fm: 10.4481 Loss-g-mel: 16.4253 Loss-g-dur: 1.1459 Loss-g-kl: 1.7135 lr: 0.00014528 grad_norm_g: 815.8178 grad_norm_d: 53.1835
+======> Epoch: 2403
+Train Epoch: 2404 [12.50%] G-Loss: 34.5586 D-Loss: 2.1134 Loss-g-fm: 11.5403 Loss-g-mel: 17.4066 Loss-g-dur: 1.1206 Loss-g-kl: 1.3211 lr: 0.00014526 grad_norm_g: 628.7404 grad_norm_d: 111.7201
+Train Epoch: 2404 [64.58%] G-Loss: 36.7416 D-Loss: 1.9599 Loss-g-fm: 13.6802 Loss-g-mel: 17.4887 Loss-g-dur: 1.2207 Loss-g-kl: 1.6318 lr: 0.00014526 grad_norm_g: 782.9481 grad_norm_d: 54.1233
+======> Epoch: 2404
+Train Epoch: 2405 [16.67%] G-Loss: 34.6886 D-Loss: 2.1870 Loss-g-fm: 11.9414 Loss-g-mel: 17.1143 Loss-g-dur: 1.2426 Loss-g-kl: 1.4297 lr: 0.00014525 grad_norm_g: 693.9711 grad_norm_d: 34.4197
+Train Epoch: 2405 [68.75%] G-Loss: 36.9996 D-Loss: 2.1182 Loss-g-fm: 12.9167 Loss-g-mel: 18.3592 Loss-g-dur: 1.2679 Loss-g-kl: 1.5594 lr: 0.00014525 grad_norm_g: 741.6310 grad_norm_d: 33.4676
+======> Epoch: 2405
+Train Epoch: 2406 [20.83%] G-Loss: 33.2318 D-Loss: 2.0951 Loss-g-fm: 10.9002 Loss-g-mel: 16.8425 Loss-g-dur: 1.1648 Loss-g-kl: 1.4536 lr: 0.00014523 grad_norm_g: 531.8013 grad_norm_d: 13.1948
+Train Epoch: 2406 [72.92%] G-Loss: 35.0340 D-Loss: 2.1656 Loss-g-fm: 11.7454 Loss-g-mel: 18.0014 Loss-g-dur: 1.2055 Loss-g-kl: 1.5583 lr: 0.00014523 grad_norm_g: 154.3938 grad_norm_d: 38.7928
+======> Epoch: 2406
+Train Epoch: 2407 [25.00%] G-Loss: 33.4985 D-Loss: 2.2838 Loss-g-fm: 10.5023 Loss-g-mel: 17.2334 Loss-g-dur: 1.1301 Loss-g-kl: 1.5079 lr: 0.00014521 grad_norm_g: 763.9961 grad_norm_d: 82.3652
+Train Epoch: 2407 [77.08%] G-Loss: 35.4800 D-Loss: 2.0887 Loss-g-fm: 12.0982 Loss-g-mel: 17.6145 Loss-g-dur: 1.1644 Loss-g-kl: 1.6252 lr: 0.00014521 grad_norm_g: 913.3821 grad_norm_d: 61.2638
+======> Epoch: 2407
+Train Epoch: 2408 [29.17%] G-Loss: 34.9905 D-Loss: 2.1703 Loss-g-fm: 11.6902 Loss-g-mel: 17.5330 Loss-g-dur: 1.2078 Loss-g-kl: 1.6026 lr: 0.00014519 grad_norm_g: 773.9281 grad_norm_d: 48.9878
+Train Epoch: 2408 [81.25%] G-Loss: 34.0249 D-Loss: 2.1519 Loss-g-fm: 11.6966 Loss-g-mel: 17.3206 Loss-g-dur: 1.1092 Loss-g-kl: 1.1749 lr: 0.00014519 grad_norm_g: 414.2418 grad_norm_d: 28.4995
+======> Epoch: 2408
+Train Epoch: 2409 [33.33%] G-Loss: 36.2480 D-Loss: 2.0763 Loss-g-fm: 12.3005 Loss-g-mel: 18.1469 Loss-g-dur: 1.2924 Loss-g-kl: 1.6240 lr: 0.00014517 grad_norm_g: 734.2494 grad_norm_d: 39.7436
+Train Epoch: 2409 [85.42%] G-Loss: 31.0542 D-Loss: 2.2380 Loss-g-fm: 9.8202 Loss-g-mel: 16.2862 Loss-g-dur: 1.0929 Loss-g-kl: 1.3365 lr: 0.00014517 grad_norm_g: 540.0492 grad_norm_d: 35.4061
+======> Epoch: 2409
+Train Epoch: 2410 [37.50%] G-Loss: 35.8227 D-Loss: 2.0771 Loss-g-fm: 12.2731 Loss-g-mel: 17.8363 Loss-g-dur: 1.1971 Loss-g-kl: 1.5981 lr: 0.00014515 grad_norm_g: 558.4049 grad_norm_d: 28.2077
+Train Epoch: 2410 [89.58%] G-Loss: 33.5941 D-Loss: 2.1358 Loss-g-fm: 11.1851 Loss-g-mel: 17.0214 Loss-g-dur: 1.1131 Loss-g-kl: 1.5692 lr: 0.00014515 grad_norm_g: 821.0388 grad_norm_d: 63.9825
+======> Epoch: 2410
+Train Epoch: 2411 [41.67%] G-Loss: 36.9342 D-Loss: 2.1666 Loss-g-fm: 12.7889 Loss-g-mel: 18.3113 Loss-g-dur: 1.2580 Loss-g-kl: 1.6672 lr: 0.00014514 grad_norm_g: 216.1741 grad_norm_d: 9.7548
+Train Epoch: 2411 [93.75%] G-Loss: 31.8770 D-Loss: 2.2904 Loss-g-fm: 10.0839 Loss-g-mel: 16.8803 Loss-g-dur: 1.1055 Loss-g-kl: 1.2932 lr: 0.00014514 grad_norm_g: 346.0927 grad_norm_d: 22.5377
+======> Epoch: 2411
+Train Epoch: 2412 [45.83%] G-Loss: 32.8968 D-Loss: 2.1851 Loss-g-fm: 10.4938 Loss-g-mel: 16.7958 Loss-g-dur: 1.1769 Loss-g-kl: 1.5717 lr: 0.00014512 grad_norm_g: 873.6533 grad_norm_d: 96.6590
+Train Epoch: 2412 [97.92%] G-Loss: 34.8784 D-Loss: 2.4848 Loss-g-fm: 11.5506 Loss-g-mel: 17.2400 Loss-g-dur: 1.1549 Loss-g-kl: 1.3796 lr: 0.00014512 grad_norm_g: 752.4745 grad_norm_d: 75.8925
+======> Epoch: 2412
+Train Epoch: 2413 [50.00%] G-Loss: 32.3020 D-Loss: 2.1515 Loss-g-fm: 10.2815 Loss-g-mel: 16.9527 Loss-g-dur: 1.1613 Loss-g-kl: 1.3422 lr: 0.00014510 grad_norm_g: 156.1613 grad_norm_d: 7.5548
+======> Epoch: 2413
+Train Epoch: 2414 [2.08%] G-Loss: 19.2338 D-Loss: 2.2683 Loss-g-fm: 6.1953 Loss-g-mel: 8.5636 Loss-g-dur: 0.6229 Loss-g-kl: 1.3880 lr: 0.00014508 grad_norm_g: 829.2056 grad_norm_d: 39.3470
+Train Epoch: 2414 [54.17%] G-Loss: 31.2345 D-Loss: 2.3081 Loss-g-fm: 9.8323 Loss-g-mel: 16.4853 Loss-g-dur: 1.1191 Loss-g-kl: 1.2826 lr: 0.00014508 grad_norm_g: 447.4509 grad_norm_d: 28.0689
+======> Epoch: 2414
+Train Epoch: 2415 [6.25%] G-Loss: 35.5981 D-Loss: 2.0481 Loss-g-fm: 12.1989 Loss-g-mel: 17.5212 Loss-g-dur: 1.2026 Loss-g-kl: 1.5872 lr: 0.00014506 grad_norm_g: 1004.9569 grad_norm_d: 69.7889
+Train Epoch: 2415 [58.33%] G-Loss: 33.0008 D-Loss: 2.1521 Loss-g-fm: 10.6553 Loss-g-mel: 16.6143 Loss-g-dur: 1.1282 Loss-g-kl: 1.6281 lr: 0.00014506 grad_norm_g: 256.3422 grad_norm_d: 49.3598
+======> Epoch: 2415
+Train Epoch: 2416 [10.42%] G-Loss: 37.3564 D-Loss: 2.1518 Loss-g-fm: 13.1231 Loss-g-mel: 18.2878 Loss-g-dur: 1.1762 Loss-g-kl: 1.7286 lr: 0.00014505 grad_norm_g: 651.7529 grad_norm_d: 58.0822
+Train Epoch: 2416 [62.50%] G-Loss: 33.2347 D-Loss: 2.1397 Loss-g-fm: 10.4239 Loss-g-mel: 17.3392 Loss-g-dur: 1.1314 Loss-g-kl: 1.3208 lr: 0.00014505 grad_norm_g: 935.0203 grad_norm_d: 89.3596
+======> Epoch: 2416
+Train Epoch: 2417 [14.58%] G-Loss: 33.5865 D-Loss: 2.1257 Loss-g-fm: 11.1956 Loss-g-mel: 17.1251 Loss-g-dur: 1.0878 Loss-g-kl: 1.3632 lr: 0.00014503 grad_norm_g: 384.4707 grad_norm_d: 13.9971
+Train Epoch: 2417 [66.67%] G-Loss: 35.1630 D-Loss: 2.0738 Loss-g-fm: 12.2533 Loss-g-mel: 17.3548 Loss-g-dur: 1.1879 Loss-g-kl: 1.4876 lr: 0.00014503 grad_norm_g: 591.9865 grad_norm_d: 46.1306
+ERROR: Unexpected segmentation fault encountered in worker.
+ ERROR: Unexpected segmentation fault encountered in worker.
+ ERROR: Unexpected segmentation fault encountered in worker.
+ ERROR: Unexpected segmentation fault encountered in worker.
+ Exception ignored in: <function _MultiProcessingDataLoaderIter.__del__ at 0x7fdcdec3c820>
+Traceback (most recent call last):
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 1478, in __del__
+    self._shutdown_workers()
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 1442, in _shutdown_workers
+    w.join(timeout=_utils.MP_STATUS_CHECK_INTERVAL)
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/multiprocessing/process.py", line 149, in join
+    res = self._popen.wait(timeout)
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/multiprocessing/popen_fork.py", line 40, in wait
+    if not wait([self.sentinel], timeout):
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/multiprocessing/connection.py", line 931, in wait
+    ready = selector.select(timeout)
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/selectors.py", line 416, in select
+    fd_event_list = self._selector.poll(timeout)
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/utils/data/_utils/signal_handling.py", line 66, in handler
+    _error_if_any_worker_fails()
+RuntimeError: DataLoader worker (pid 55217) is killed by signal: Segmentation fault. 
+Traceback (most recent call last):
+  File "/mnt/disk3/huangyao/tts/vits/train_ms.py", line 219, in <module>
+    main()        
+  File "/mnt/disk3/huangyao/tts/vits/train_ms.py", line 35, in main
+    mp.spawn(run, nprocs = n_gpus, args = (n_gpus, hps,))
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/multiprocessing/spawn.py", line 239, in spawn
+    return start_processes(fn, args, nprocs, join, daemon, start_method='spawn')
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/multiprocessing/spawn.py", line 197, in start_processes
+    while not context.join():
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/multiprocessing/spawn.py", line 160, in join
+    raise ProcessRaisedException(msg, error_index, failed_process.pid)
+torch.multiprocessing.spawn.ProcessRaisedException: 
+
+-- Process 0 terminated with the following error:
+Traceback (most recent call last):
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 1132, in _try_get_data
+    data = self._data_queue.get(timeout=timeout)
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/queue.py", line 180, in get
+    self.not_empty.wait(remaining)
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/threading.py", line 316, in wait
+    gotit = waiter.acquire(True, timeout)
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/utils/data/_utils/signal_handling.py", line 66, in handler
+    _error_if_any_worker_fails()
+RuntimeError: DataLoader worker (pid 56044) is killed by signal: Segmentation fault. 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/multiprocessing/spawn.py", line 69, in _wrap
+    fn(i, *args)
+  File "/mnt/disk3/huangyao/tts/vits/train_ms.py", line 97, in run
+    train_and_evaluate(rank, epoch, hps, [net_g, net_d], [optim_g, optim_d], [scheduler_g, scheduler_d],
+  File "/mnt/disk3/huangyao/tts/vits/train_ms.py", line 174, in train_and_evaluate
+    evaluate(hps, net_g, eval_loader)
+  File "/mnt/disk3/huangyao/tts/vits/train_ms.py", line 186, in evaluate
+    for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths, speakers) in enumerate(eval_loader):
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 633, in __next__
+    data = self._next_data()
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 1328, in _next_data
+    idx, data = self._get_data()
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 1284, in _get_data
+    success, data = self._try_get_data()
+  File "/home/rex/anaconda3/envs/torch2/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 1145, in _try_get_data
+    raise RuntimeError('DataLoader worker (pid(s) {}) exited unexpectedly'.format(pids_str)) from e
+RuntimeError: DataLoader worker (pid(s) 56044) exited unexpectedly
+
+nohup: ignoring input
+nohup: ignoring input

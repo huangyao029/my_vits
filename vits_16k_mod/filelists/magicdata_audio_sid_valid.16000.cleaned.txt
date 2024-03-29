@@ -1,0 +1,30 @@
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F002/Wave-PC/F002_037.wav|1|y an2 t u2 d i4 d uan4 d e ch e1 y ou3 h ui4 sh en2 m e d e 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F002/Wave-PC/F002_113.wav|1|b ie2 r en2 d e ch ang3 ， r en2 b u4 g ou4 l e ， b ang1 y ao1 h e x ia4 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F002/Wave-PC/F002_114.wav|1|j i1 b en3 sh ang4 sh en2 m e j i4 sh u4 d ou1 h ui4 d ian3 d e sh ui3 p ing2 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F002/Wave-PC/F002_168.wav|1|r u2 g uo3 n v3 q iang2 n an2 r uo4 b i3 j iao4 m ing2 x ian3 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F002/Wave-PC/F002_030.wav|1|t ui4 x iu1 g en1 x in1 t ai4 y ou3 g uan1 g en1 q ian2 w u2 g uan1 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F005/Wave-PC/F005_057.wav|4|y ao4 m e t iao1 f u2 h e2 z i4 j i3 x u1 q iu2 d e 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F005/Wave-PC/F005_108.wav|4|k an4 sh e4 j i4 ， d ang1 r an2 t an4 b u4 x uan3 z e2 y e3 sh i4 sh e4 j i4 d e y i1 b u4 f en1 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F005/Wave-PC/F005_081.wav|4|zh e4 zh ong3 sh i2 h ou y i4 b an1 y ao4 j iang4 s u4 d ao4 sh i2 y i3 x ia4 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F005/Wave-PC/F005_050.wav|4|y i2 g e4 g ong1 ch ang3 d a3 g ong1 x iao3 h uo3 z i ， q uan2 ch eng2 l u4 sh ang4 z i4 j i3 z uo4 f an4 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F005/Wave-PC/F005_174.wav|4|q ing1 h ua2 ch i2 d e x ing1 x u3 zh en1 b i3 q ing1 h ua2 d e d ong4 sh ou3 n eng2 l i4 q iang2 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F001/Wave-PC/F001_188.wav|0|b u4 k ong4 zh i4 y in3 sh i2 h e2 l i3 y un4 d ong4 sh i4 b u4 k e3 n eng2 j ian3 f ei2 d e 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F001/Wave-PC/F001_159.wav|0|y i4 b an1 b u2 h ui4 b a ， l ao3 b an3 ch u1 h uo4 d ou1 sh i4 z an3 d e j iu4 h uo4 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F001/Wave-PC/F001_125.wav|0|z ai4 m ou3 x ie1 r en2 d e j iao3 d u4 k an4 ， d an1 d an1 zh e4 m e z uo4 d uo1 zh eng4 q ue4 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F001/Wave-PC/F001_122.wav|0|w ang3 q iu2 d a3 d ao4 z ui4 h ou4 j i1 b en3 k ao4 f a1 q iu2 l e ， m ei2 l i4 j ie1 q iu2 l e 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F001/Wave-PC/F001_006.wav|0|m ei3 t ian1 q i1 l ing2 g ong1 l i3 h ai2 h ao3 ， m ei3 t ian1 d u3 q i1 sh i2 g ong1 l i3 n an2 sh ou4 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F006/Wave-PC/F006_009.wav|5|zh e4 g e4 t ing3 sh i4 h e2 d e ， sh i4 h e2 y un4 d ong4 b i3 j iao4 g ao1 j i2 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F006/Wave-PC/F006_075.wav|5|sh u4 z i4 zh i3 sh i4 sh u4 z i4 ， sh eng1 m ing4 g eng4 zh ong4 y ao4 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F006/Wave-PC/F006_072.wav|5|w o3 z i4 x ing2 ch e1 l iu4 x iao3 sh i2 c ong2 n an2 l iu4 h uan2 q i2 d ao4 b ei3 l iu4 h uan2 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F006/Wave-PC/F006_187.wav|5|x ian4 z ai4 y i1 n ian2 n eng2 sh uai1 s an1 w u3 c i4 d ou1 s uan4 d uo1 l e 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F006/Wave-PC/F006_156.wav|5|b ei3 j ing1 d e h ua4 h ai2 sh i4 s uan4 l e b a ， d a4 d ong1 t ian1 d e 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F004/Wave-PC/F004_133.wav|3|z ai4 y i4 t ian1 q i2 w ai4 h uan2 ， n an2 er4 h uan2 z ou3 h u4 ch eng2 h e2 b ei3 c e4 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F004/Wave-PC/F004_134.wav|3|x i1 b ian1 b ei3 b ian1 p a2 sh an1 a ， p ing2 l u4 m ei2 sh a2 y i4 s i1 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F004/Wave-PC/F004_199.wav|3|q ian2 h ou4 y a2 p an2 p an2 p ian4 y e3 x u1 y ao4 h uan4 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F004/Wave-PC/F004_148.wav|3|y i4 b an1 w ai4 t ai1 y ou3 sh ang1 c ai2 h ui4 zh a4 a 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F004/Wave-PC/F004_010.wav|3|zh e4 p eng2 y ou ch e3 d an4 d a4 l e ， sh u3 y u2 sh a2 y e3 b u4 d ong3 d e 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F003/Wave-PC/F003_106.wav|2|t ie1 d i4 f ei1 x ing2 b i3 zh en1 zh eng4 d e f ei1 x ing2 y ao4 w ei1 x ian3 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F003/Wave-PC/F003_088.wav|2|y i1 l ian3 b u4 l e4 y i4 d e d a3 k ai1 m en2 ， y i2 g e4 h ei1 y i1 r en2 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F003/Wave-PC/F003_059.wav|2|n ian2 n ian2 l ang2 l ai2 l e j in1 n ian2 zh en1 l ai2 l e 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F003/Wave-PC/F003_101.wav|2|sh un4 sh i2 j ia1 s u4 d u4 d eng3 j ia4 an1 q uan2 sh u4 f u4 。
+/ZFS4T/tts/data/MagicTTS_datasets/data_expand/16000/F003/Wave-PC/F003_025.wav|2|t ong2 d eng3 q i2 ch eng2 ， b u4 y i1 d ing4 h ui4 b i3 q i2 sh an1 d i4 l ei4 。

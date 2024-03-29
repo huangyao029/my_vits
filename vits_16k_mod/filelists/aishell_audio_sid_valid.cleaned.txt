@@ -1,0 +1,76 @@
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0168.wav|0|wan4 da2 qing1 zi1 chan3 guang3 chang3 de bi3 zhong4 hui4 chao1 guo4 zhong4 zi1 chan3
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0166.wav|0|jin1 nian2 kai1 ye4 de guang3 chang3
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0294.wav|0|tui1 guang3 pu3 ji2 ran2 liao4 dian4 qi4 che1
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0360.wav|0|huan1 xiao4 tiao4 yue4 he2 ying3 sui2 chu4 ke3 jian4
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0487.wav|0|jia1 ju4 de jia4 ge2 dao4 gua4 ye3 shi3 de da4 mi3 zou3 si1 ri4 yi4 chang1 jue2
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0432.wav|0|xin1 shi4 ye3 hao4 tan4 ce4 qi4 fei1 lvě0 ming2 wang2 xing1
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0479.wav|0|er2 jin1 nian2 guo2 qing4 jie2 shi2 yue4 yi1 ri4 zhi4 qi1 ri4 fang4 jia4 tiao2 xiu1 shi2 yue4 shi2 ri4 xing1 qi1 liu4 shang4 ban1
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0200.wav|0|dui4 tui1 jin4 jing1 ji4 jie2 gou4 tiao2 zheng3 he2 ti2 gao1 guo2 jia1 zong1 he2 shi2 li4 ju4 you3 zhong4 da4 yi4 yi4
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0231.wav|0|wei4 shi3 shi4 dian3 hang2 ye4 zong3 ti3 shui4 fu4 bu4 zeng1 jia1
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0285.wav|0|hun4 dong4 bi3 chun2 dian4 dong4 fa1 zhan3 hui4 geng4 kuai4 xie1
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0451.wav|0|yi4 wan4 fu4 po2 lian4 shang4 yi1 sheng1 shi4 guan3 zao4 ren2 wu3 nian2 hou4 you4 mao4 chu1 dai4 yun4 er2 zi
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0213.wav|0|yun4 fei4 fa1 piao4 yi3 na4 ru4 zeng1 zhi2 shui4 guan3 li3 ti3 xi4
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0337.wav|0|yi3 qi3 ye4 wei4 dan1 wei4 ti2 gong1 shi4 zheng4 jiao1 tong1 yi1 ka3 tong1 ka3 hao4 ji2 xing4 ming2
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0198.wav|0|jiang1 ji1 qi4 she4 bei4 na4 ru4 zeng1 zhi2 shui4 di3 kou4 fan4 wei2
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0393.wav|0|jiu4 shi4 neng2 geng4 duo1 de zou3 chu1 lai2 dao4 yang2 guang1 xia4 xing2 zou3
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0240.wav|0|jia1 zhi1 ben3 ci4 gai3 ge2 shi4 dian3 jin3 zai4 ge4 bie2 di4 qu1 de bu4 fen4 hang2 ye4 shi2 shi1
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0249.wav|0|zai4 fen1 bie2 shi4 yong4 zeng1 zhi2 shui4 he2 ying2 ye4 shui4 de tong2 shi2
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0155.wav|0|ke3 neng2 zhe4 jiu4 shi4 hang2 ye4 de yi2 ge4 fang1 xiang4
+/ZFS4T/opensrl/aishell1_part/S0176/BAC009S0176W0290.wav|0|wu2 fa3 dui4 chun2 dian4 dong4 qi4 che1 xing2 cheng2 ya1 dao3 xing4 you1 shi4
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0263.wav|1|zhong1 guo2 te4 si1 la1 xiao1 liang4 zhi3 you3 ou1 zhou1 de er4 fen1 zhi1 yi1 bei3 mei3 de si4 fen1 zhi1 yi1
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0152.wav|1|xu4 hui1 ji2 tuan2 dong3 shi4 chang2 lin2 zhong1 ceng2 biao3 shi4
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0355.wav|1|sun1 yang2 hai2 can1 jia1 le ba1 bai3 mi3 zi4 you2 yong3 de yu4 sai4
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0446.wav|1|ji4 zhe3 cong2 nan2 dan1 xian4 xian4 wei3 xuan1 chuan2 bu4 huo4 xi1
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0278.wav|1|wei4 huan2 bao3 er2 chi4 zi1 bai3 wan4 gou4 mai3 te4 si1 la1 de dong4 li4 wei1 hu1 qi2 wei1
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0317.wav|1|liao3 jie3 ta1 men de jia1 ting2 bei4 jing3 sheng1 huo2 xi2 guan4
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0241.wav|1|jin1 rong2 jian1 guan3 ji2 chuang4 xin1 bu4 zu2
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0338.wav|1|zai4 di4 yi1 ge4 bai3 mi3 wan2 cheng2 shi2
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0131.wav|1|bei3 jing1 tu3 di4 chu1 rang4 jin1 tu1 po4 le yi1 qian1 yi4
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0340.wav|1|dan4 sui2 hou4 you2 yu2 li3 xiang3 shi2 li4 suo3 xian4 zhong1 guo2 dui4 ming2 ci4 diao4 dao4 di4 si4
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0386.wav|1|dan4 shi4 zhe4 que4 shi2 shi4 yi1 zhong3 xun4 lian4 da3 tui3 de shou3 duan4
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0138.wav|1|zhe4 tong2 yang4 jian3 ruo4 le zhong1 xiao3 fang2 qi3 de shi4 chang3 jing4 zheng1 li4
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0298.wav|1|te4 si1 la1 hen3 nan2 zheng1 qu3 zhu3 dong4
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0322.wav|1|jia4 ge2 ye3 bu4 gao1 de dan1 pin3 yue4 lai2 yue4 shou4 dao4 huan1 ying2
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0475.wav|1|yin3 lai2 da4 liang4 qun2 zhong4 ju4 ji2 wei2 guan1
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0169.wav|1|zhu4 xin4 jiang1 tui4 chu1 fang2 di4 chan3 shi4 chang3
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0326.wav|1|chuan1 yi1 jing4 bian4 ke3 gen1 deng1 guang1 jie2 he2
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0490.wav|1|guang3 xi1 xiao3 huo3 dai4 zhuo2 zhong4 bing4 nv3 you3 lv3 you2 yao4 zai4 di4 tu2 shang4 zou3 chu1 xin1 xing2
+/ZFS4T/opensrl/aishell1_part/S0666/BAC009S0666W0352.wav|1|zhong1 guo2 you2 yong3 dui4 ci3 ci4 pai4 chu1 de shi4 ming2 jiang4 sun1 yang2 he2 xu2 qi2 huan2 can1 sai4
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0311.wav|2|er2 ri4 qian2 gong1 xin4 bu4 ze2 biao3 shi4
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0335.wav|2|da3 zao4 geng4 you3 shi4 chang3 jing4 zheng1 li4 de chan3 pin3
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0363.wav|2|ke3 yi3 ti2 gao1 ta1 men ke1 xue2 jian4 shen1 de zhi3 dao3 shui3 ping2
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0422.wav|2|zhi4 hao3 ru2 fei1 tou2 pi2 shang4 lei4 si4 qing1 chun1 dou4 de ke1 li4
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0313.wav|2|tong2 shi2 er4 ling2 yi1 wu3 shi4 jie4 ji1 qi4 ren2 da4 hui4 ye3 jiang1 yu2 shi2 yi1 yue4 zai4 bei3 jing1 ju3 xing2
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0461.wav|2|jiu3 yi1 sui4 de lao3 bing1 chi3 chang2 fa4
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0427.wav|2|bang1 mu3 zi3 lai2 zhang1 jie1 pai1
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0240.wav|2|wo3 men de jian1 guan3 ti3 xi4 yao4 ji2 shi2 jie3 shi4 yi2 huo4
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0155.wav|2|you2 yu2 san1 xian4 cheng2 shi4 qu4 ku4 cun2 ren4 wu4 jiao4 zhong4
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0188.wav|2|yi3 qian2 wan2 nong4 shou3 duan4 gui1 bi4 xiang1 guan1 fa3 lv4 zhe3
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0464.wav|2|ben3 bao4 xun4 ji4 zhe3 dong3 xin1 zuo2 tian1
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0489.wav|2|xin1 zeng1 le san1 ling2 wei4 kang4 zhan4 lao3 bing1 de zhan4 dou4 ji4 yi4 zi1 liao4
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0278.wav|2|yang2 guang1 dong4 li4 er4 hao4 tai4 yang neng2 fei1 ji1 cong2 a1 lian2 qiu2 shou3 du1 a1 bu4 zha1 bi3 chu1 fa1
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0205.wav|2|shi4 fou3 zhi4 ai2 xian4 zai4 hai2 mei2 you3 ge4 ding4 lun4
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0465.wav|2|can1 jia1 le di4 er4 jiu3 jie4 lu2 gou1 qiao2 xing3 shi1 yue4 ye3 pao3 huo2 dong4
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0167.wav|2|yi1 xian4 cheng2 shi4 shi4 jin1 nian2 er4 ji4 du4 fang2 jia4 shang4 zhang3 de ling3 tou2 yang2
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0220.wav|2|jiu4 yao4 tiao3 zhan4 she4 hui4 de chang2 shi2
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0398.wav|2|wei4 zhong1 guo2 dui4 que4 bao3 le qian2 liang3 ming2
+/ZFS4T/opensrl/aishell1_part/S0710/BAC009S0710W0302.wav|2|yang2 guang1 dong4 li4 hao4 li4 yong4 dian4 chi2 ban3 chu3 cun2 tai4 yang neng2
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0277.wav|3|yin1 wei4 neng2 liang4 you3 xian4 de tai4 yang neng2 fei1 ji1
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0436.wav|3|kang4 mei3 yuan2 chao2 lao3 bing1 zai4 nong2 cun1 jing4 lao3 yuan4 si3 wang2 duo1 tian1 jing4 wu2 ren2 zhi1 xiao3
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0264.wav|3|you2 yu2 dui4 mian4 ji1 he2 zhong4 liang4 de yao1 qiu2 ke1 ke4
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0400.wav|3|zhe4 mei2 yin2 pai2 ye3 shi4 ta1 ge4 ren2 shou3 mei2 shi4 jie4 da4 sai4 jiang3 pai2
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0388.wav|3|zhe4 shi4 cao2 yi4 fei1 na2 dao4 de di4 si4 kuai4 she4 ji1 shi4 jie4 bei1 jiang3 pai2
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0469.wav|3|kuang2 ben1 shu4 shi2 mi3 pao3 dao4 xin1 zang4 bing4 tu1 fa1 zhe3 shen1 qian2
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0182.wav|3|xiang1 guan1 gong1 si1 gu3 piao4 zou3 shi4 zhong1 guan1 cun1
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0413.wav|3|bing4 cheng1 xiong1 di4 qing2
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0216.wav|3|tui1 chu1 zong3 mian4 ji1 jin4 liang3 qian1 mu3 tu3 di4
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0256.wav|3|jiu4 yi3 zhong4 da2 liu4 bai3 san1 shi2 san1 gong1 jin1
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0353.wav|3|zai4 dang4 tian1 shuai4 xian1 jin4 xing2 de nan2 zi3 wu3 shi2 mi3 shou3 qiang1 man4 she4 bi3 sai4 zhong1
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0269.wav|3|sui1 ran2 ke3 yi3 cheng1 de shang4 shi4 quan2 guo2 zui4 da4 de tai4 yang neng2 fei1 ji1
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0373.wav|3|ta1 zai4 gui4 wo4 li4 san1 zhong3 zi1 shi4 zhong1 dou1 fa1 hui1 wen3 ding4
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0219.wav|3|ge4 di4 fen1 fen1 xian1 kai1 le xia4 ban4 nian2 tu3 di4 da4 zhan4 de xu4 mu4
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0452.wav|3|gai1 qiang3 jie2 tuan2 huo3 hai2 xiang3 kuo4 da4 ye4 wu4
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0252.wav|3|wei2 you3 qi1 dai4 fang4 song1 fang2 di4 chan3 tiao2 kong4 song1 dong4
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0343.wav|3|zai4 ci3 qian2 jie1 shou4 guo2 ji4 she4 lian2 cai3 fang3 shi2
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0240.wav|3|yi1 bian1 you4 xiang4 tu3 di4 bu4 duan4 shen1 shou3 yao4 qian2
+/ZFS4T/opensrl/aishell1_part/S0711/BAC009S0711W0151.wav|3|yi4 jia4 lv4 wei4 bai3 fen1 zhi1 ling2 dian3 yi1 er4
